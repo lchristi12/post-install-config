@@ -6,9 +6,7 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +20,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles (for grouping permissions)
+- Configure Departments ( Tiket Visibility, Help desk Vs SysAdmin Vs Networking)
+- Configure Teams
+- Configure Agents (Workers)
+- Configure Users (Customers)
+- Configure SLA
+- Configure Help Topics (When users create a ticket)
 
 <h2>Configuration Steps</h2>
 
